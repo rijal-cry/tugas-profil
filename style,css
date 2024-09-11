@@ -1,0 +1,21 @@
+dark.blue{
+    background-color: blue;
+}
+
+.text-coklat {
+     color: chocolate
+    
+}
+
+.nav-item .nav-link :hover {
+     color:black;
+     border-bottom: 1px solid; color:aqua;
+
+}
+.nav-item .nav-link {
+    border-bottom: 1px solid ;
+}
+
+img {
+     mix blend ime-mode: ;
+}
